@@ -1,4 +1,4 @@
-## ✊✋✌️ Rock-Paper-Scissors Game (Python + Tkinter)
+# ✊✋✌️ Rock-Paper-Scissors Game (Python + Tkinter)
 
 A simple and fun **Rock-Paper-Scissors** game built using Python’s **Tkinter** library.  
 Play against the computer with a graphical user interface!
@@ -14,9 +14,11 @@ Play against the computer with a graphical user interface!
 
 ## 🧱 File Structure
 
-📁 RockPaperScissors/
-├── rps_game.py # Main Python script
-└── README.md # Project documentation
+📁 RockPaperScissors
+<br>
+rps_game.py # Main Python script
+<br>
+README.md # Project documentation
 
 
 ## 💻 How to Run
