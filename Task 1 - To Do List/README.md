@@ -2,7 +2,9 @@
 A beginner-friendly Python project using **Tkinter** to create a basic To-Do List with a graphical user interface.
 
 ## 📁 File Structure
+<br>
 todo.py # Main Python script containing GUI logic
+<br>
 README.md # Project overview and usage instructions
 
 ## 🎯 Project Features
