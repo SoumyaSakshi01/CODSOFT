@@ -1,4 +1,4 @@
-## 🔐 Password Generator using Python & Tkinter
+# 🔐 Password Generator using Python & Tkinter
 
 A simple GUI-based **Password Generator** application built with **Tkinter** in Python.  
 Generate strong and random passwords with a click!
@@ -16,9 +16,11 @@ Generate strong and random passwords with a click!
 
 ## 🧱 File Structure
 
-📁 PasswordGenerator/
-├── password_generator.py # Main Python script
-└── README.md # Project documentation
+📁 PasswordGenerator
+<br>
+password_generator.py # Main Python script
+<br>
+README.md # Project documentation
 
 
 ## 💻 How to Run
