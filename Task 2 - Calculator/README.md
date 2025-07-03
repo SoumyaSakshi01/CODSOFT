@@ -9,9 +9,11 @@ A simple and user-friendly **Calculator App** built using Python's **Tkinter** l
 - Displays **"Error"** for invalid inputs
 
 ## 🧱 File Structure
-📁 Calculator/
-├── calculator.py # Main Python script
-└── README.md # Project documentation
+📁 Calculator
+<br>
+calculator.py # Main Python script
+<br>
+README.md # Project documentation
 
 ## 💻 How to Run
 1. Make sure you have Python installed.
