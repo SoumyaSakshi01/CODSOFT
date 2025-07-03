@@ -43,9 +43,6 @@ Result Display: Shows the generated password or error message
 🔐 Example
 If you enter 12 and click Generate, you'll get something like:
 
-ruby
-Copy
-Edit
 kF#9zYq&W7@m
 
 
